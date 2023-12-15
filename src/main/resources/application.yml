@@ -1,13 +1,13 @@
 spring:
   datasource:
-    username: spring
-    url: jdbc:mysql://localhost:3306/web_store_test?useSSL=false
-    password: spring
+    username: root
+    url: jdbc:mysql://localhost:3306/e_commerce?useSSL=false
+    password: Saurabh@123
   mail:
     host: smtp-mail.outlook.com
     port: 587
-    username: senkoShop@outlook.com
-    password: Midostar10035
+    username: springbootpractice94@gmail.com
+    password: eltrprwwqivdblap
     properties:
       mail:
         smtp:

@@ -834,8 +834,12 @@ and */
 .modal {
     background: rgba(0, 0, 0, 0.5);
     margin-right: 0px;
-!important;
+    !important;
 }
+
+
+
+
 
 .modal-backdrop {
     display: none;
